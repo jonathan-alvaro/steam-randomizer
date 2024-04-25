@@ -1,0 +1,2 @@
+# Steam Randomizer
+Do you find yourself with a large backlog and can't decide which game to play next? This web app is meant to help you solve that! It chooses a random game from your steam library for you to play next!
